@@ -1,1 +1,74 @@
+📘 Overview
 
+This repository contains my daily homework programming problems and solutions.
+I upload the problems I practice every day to improve my coding skills, logical thinking, and problem-solving ability.
+
+The goal of this repository is to maintain a consistent daily coding habit and track my progress over time.
+
+📂 Repository Structure
+
+Each file contains the solution for a homework problem.
+
+Example structure:
+
+Day01/
+
+sum_problem_1
+
+sum_problem_2
+
+Day02/
+
+sum_problem_1
+
+sum_problem_2
+
+🧠 Topics Covered
+
+The problems may include:
+
+Basic programming
+
+Arithmetic operations
+
+Loops
+
+Conditional statements
+
+Functions
+
+Problem-solving exercises
+
+🎯 Purpose
+
+Practice coding every day
+
+Improve problem-solving skills
+
+Build a public coding record
+
+Track learning progress
+
+🚀 How to Use
+
+Browse the folders by day or problem number.
+
+Open the file to view the solution.
+
+Run the code in your preferred programming environment.
+
+🛠 Languages Used
+
+java
+
+Python
+
+📅 Updates
+
+This repository is updated daily with new homework problems and solutions.
+
+👨‍💻 Author
+
+Created and maintained by [Your Name]
+
+⭐ If you find this repository useful, feel free to explore and learn along!
